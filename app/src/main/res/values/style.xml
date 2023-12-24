@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- other style attributes -->
+
+        <!-- Customize the DatePicker style -->
+        <item name="android:datePickerStyle">@style/CustomDatePickerStyle</item>
+    </style>
+
+    <style name="CustomDatePickerStyle">
+        <!-- Customize the appearance of the DatePicker -->
+        <item name="android:calendarTextColor">@color/white</item>
+        <!-- Add more attributes based on your customization needs -->
+    </style>
+</resources>

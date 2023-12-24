@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701678576759",
+    "project_id": "medimove-ed63e",
+    "storage_bucket": "medimove-ed63e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701678576759:android:f7c3a7dece3694021a9272",
+        "android_client_info": {
+          "package_name": "com.example.medimove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfdyzpv-AIqK1SPCvyFT8jquPfgc0UR8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
